@@ -3,7 +3,7 @@
 ## Olá 👋, me chamo Aislan Lima
 ### Desenvolvimento mobile | Android Nativo & React Native
 
-####Trabalho como desenvolvedor na @Zappts. Sou apaixonado por desenvolver aplicações que geram valores aos usuários e que trazem boas experiências, sempre visando performance e boas práticas de programação.
+#### Trabalho como desenvolvedor na @Zappts. Sou apaixonado por desenvolver aplicações que geram valores aos usuários e que trazem boas experiências, sempre visando performance e boas práticas de programação.
 
 ### Linguagens e ferramentas:
 <p align="left">
