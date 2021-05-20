@@ -1,9 +1,9 @@
 ![Desenvolvimento mobile | Android Nativo & React Native](https://media-exp1.licdn.com/dms/image/C4D16AQFYKyzc_mZUlA/profile-displaybackgroundimage-shrink_350_1400/0/1611669247670?e=1617235200&v=beta&t=K_nOCWMMuzU_9wqPiBIAh-FJYf73BWtccADwddxn0lI)
 
 ## Olá 👋, me chamo Aislan Lima
-### Desenvolvimento mobile | Android Nativo & React Native
+### Desenvolvedor Android
 
-### Trabalho como desenvolvedor na @Zappts. Sou apaixonado por desenvolver aplicações que geram valores aos usuários e que trazem boas experiências, sempre visando performance e boas práticas de programação.
+### Sou apaixonado por desenvolver aplicações que geram valores aos usuários e que trazem boas experiências, sempre visando performance e boas práticas de programação.
 
 ### Linguagens e ferramentas:
 <p align="left">
