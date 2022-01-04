@@ -4,7 +4,7 @@
 ### Desenvolvedor Android
 
 ### Sou apaixonado por desenvolver aplicações que geram valores aos usuários e que trazem boas experiências, sempre visando performance e boas práticas de programação.
-# *crio repositórios com nome de personagens que gosto!
+#### *crio repositórios com nome de personagens que gosto!
 
 ### Linguagens e ferramentas:
 <p align="left">
