@@ -1,7 +1,7 @@
 ### Aislan Lima
 #### Android Developer
 
-##### Software engerniree, graduated in "Tecnologia em Análise e Desenvolvimento de Sistemas" (Analisys and System Development). I programming for 5 years, focus on mobile applications (Android), clean code and clean architecture
+##### Software engerniree, graduated in "Tecnologia em Análise e Desenvolvimento de Sistemas" (Analisys and System Development). I programming for 6 years, focus on mobile applications (Android), clean code and clean architecture
 ##### Also, I like muay thai and gym, soccer, animes, movies, music and random stuffs on internet
 
 #### Languages and tools that I use in day a day
