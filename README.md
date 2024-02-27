@@ -1,21 +1,25 @@
-![Desenvolvimento mobile | Android Nativo & React Native](https://media-exp1.licdn.com/dms/image/C4D16AQFYKyzc_mZUlA/profile-displaybackgroundimage-shrink_350_1400/0/1611669247670?e=1617235200&v=beta&t=K_nOCWMMuzU_9wqPiBIAh-FJYf73BWtccADwddxn0lI)
+### Aislan Lima
+#### Android Developer
 
-## Olá, me chamo Aislan
-### Desenvolvedor Android
+##### Software engerniree, graduated in "Tecnologia em Análise e Desenvolvimento de Sistemas" (Analisys and System Development). I programming for 5 years, focus on mobile applications (Android), clean code and clean architecture
+##### Also, I like muay thai and gym, soccer, animes, movies, music and random stuffs on internet
 
-### Sou apaixonado por desenvolver aplicações que geram valores aos usuários e que trazem boas experiências, sempre visando performance e boas práticas de programação.
-
-### Linguagens e ferramentas:
+#### Languages and tools that I use in day a day
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" alt="Gradle" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aislanlima13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aislalima13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aislanlima99/)  
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/aislanlima99/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.last.fm/pt/user/AislanLima" target="_blank"><img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/aislan.jpg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
